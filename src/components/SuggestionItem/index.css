@@ -1,0 +1,13 @@
+/* Write your CSS here */
+.list-cont {
+  background-color: #ffffff;
+  display: flex;
+  flex-direction: column;
+  cursor: pointer;
+  box-shadow: 0px 4px 16px 0px #bfbfbf;
+}
+.sug {
+  color: #475569;
+  font-family: 'Roboto';
+  font-size: 20px;
+}

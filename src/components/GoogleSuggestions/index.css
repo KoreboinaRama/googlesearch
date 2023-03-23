@@ -1,0 +1,21 @@
+/* Write your CSS here */
+.cont {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.google {
+  width: 60%;
+}
+.search-logo {
+  width: 20px;
+}
+.search-cont {
+  background-color: #ffffff;
+}
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
